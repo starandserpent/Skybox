@@ -1,6 +1,0 @@
-rootProject.name = 'Weltschmerz'
-include 'heightmap-generator'
-include 'weltschmerz-noise'
-include 'weltschmerz-core'
-include 'weltschmerz-landmass'
-
